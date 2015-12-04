@@ -1,0 +1,65 @@
+<link href="/resource/css/zhuanti/2015zytb/style.css" rel="stylesheet" />
+<script src="/resource/js/zhuanti/2015zytb/gzyBox.js"></script>
+<div id="gzyBox">
+<div class="gzyBox-top"><a href="http://www.sxw100.com/" id="gzyBox-web" target="_blank"><span>&nbsp;</span> <s>&nbsp;</s> </a></div>
+<div class="gzyBox-body">
+<div class="h540 gzyBox-fore1">
+<div class="clearfix gzyBox-w">
+<div class="fl gzyBox-wz">
+<h2>进入高考志愿填报<br />
+<span>顾问系统</span></h2>
+<div class="gzyBox-wz-img"><img alt="" src="/resource/images/zhuanti/2015zytb/foreImg.png" /></div>
+</div>
+<div class="fr gzyBox-img"><img alt="" src="/resource/images/zhuanti/2015zytb/img.jpg" /> <span>&nbsp;</span></div>
+</div>
+</div>
+<div class="h540 gzyBox-fore2">
+<div class="clearfix gzyBox-w">
+<div class="fr gzyBox-wz">
+<h2>完善个人信息。</h2>
+<div class="gzyBox-wz-img"><img alt="" src="/resource/images/zhuanti/2015zytb/foreImg01.png" /></div>
+</div>
+<div class="fl gzyBox-img"><img alt="" src="/resource/images/zhuanti/2015zytb/img01.jpg" /> <span>&nbsp;</span></div>
+</div>
+</div>
+<div class="h540 gzyBox-fore3">
+<div class="clearfix gzyBox-w">
+<div class="fl gzyBox-wz">
+<h2>设置选择条件，<span>系<br />
+统智能推荐志愿。</span></h2>
+<div class="gzyBox-wz-img"><img alt="" src="/resource/images/zhuanti/2015zytb/foreImg02.png" /></div>
+</div>
+<div class="fr gzyBox-img"><img alt="" src="/resource/images/zhuanti/2015zytb/img02.jpg" /> <span>&nbsp;</span></div>
+</div>
+</div>
+<div class="h540 gzyBox-fore4">
+<div class="clearfix gzyBox-w">
+<div class="fr gzyBox-wz">
+<h2>选择心仪志愿加入<br />
+<span>意向志愿收藏夹。</span></h2>
+<div class="gzyBox-wz-img"><img alt="" src="/resource/images/zhuanti/2015zytb/foreImg03.png" /></div>
+</div>
+<div class="fl gzyBox-img"><img alt="" src="/resource/images/zhuanti/2015zytb/img03.jpg" /> <span>&nbsp;</span></div>
+</div>
+</div>
+<div class="h540 gzyBox-fore5">
+<div class="clearfix gzyBox-w">
+<div class="fl gzyBox-wz">
+<h2>对意向志愿表中院<br />
+校和专业进行<span>对比、<br />
+增、删、</span>完成志愿<br />
+表。</h2>
+<div class="gzyBox-wz-img"><img alt="" src="/resource/images/zhuanti/2015zytb/foreImg04.png" /></div>
+</div>
+<div class="fr gzyBox-img"><img alt="" src="/resource/images/zhuanti/2015zytb/img04.jpg" /> <span>&nbsp;</span></div>
+</div>
+</div>
+<div class="h280 gzyBox-fore6">
+<div class="clearfix gzyBox-w">
+<div class="gzyBox-p">第六步：生成推荐志愿报告，<span>下载查看</span>。</div>
+<div class="gzyBox-wz-img"><img alt="" src="/resource/images/zhuanti/2015zytb/foreImg05.png" /></div>
+<div class="gzyBox-arrow"><img src="/resource/images/zhuanti/2015zytb/arrow.jpg" /></div>
+</div>
+</div>
+</div>
+</div>
